@@ -5,7 +5,7 @@ define(function(require, exports, module) {
         "Plugin", "c9", "ui", "menus", "tabManager", "fs", "commands",
         "tree", "apf", "save"
     ];
-    main.provides = ["versioning.git"];
+    main.provides = ["versioning_git"];
     return main;
 
     function main(options, imports, register) {
@@ -87,7 +87,7 @@ define(function(require, exports, module) {
         });
 
         register(null, {
-            git: plugin
+            versioning_git: plugin
         });
     }
 });

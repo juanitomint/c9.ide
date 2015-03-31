@@ -1,5 +1,5 @@
 {
-    "name": "c9.ide.git",
+    "name": "c9.ide.versioning_git",
     "description": "The repository for c9.ide.git, a Cloud9 core plugin",
     "version": "3.0.0",
     "author": "Juan Ignacio Borda <juanignacioborda@gmail.com>",
@@ -9,7 +9,7 @@
         "url": "https://github.com/juanitomint/c9.ide.versioning_git.git"
     },
     "plugins": {
-        "imgeditor": {}
+        "versioning_git": {}
     },
     "categories": [
         "core"
