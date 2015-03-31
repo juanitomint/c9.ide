@@ -6,7 +6,7 @@
     "contributors": [],
     "repository": {
         "type": "git",
-        "url": "http://github.com/c9/c9.ide.imgeditor.git"
+        "url": "https://github.com/juanitomint/c9.ide.versioning_git.git"
     },
     "plugins": {
         "imgeditor": {}
